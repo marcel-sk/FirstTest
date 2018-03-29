@@ -1,0 +1,9 @@
+This is a document describing what I have learned about the use of Git/Github thus far:
+
+[git config --global] was used to set email, username, etc.
+[git add <filename>] adds or stages the file (ready for commit operation)
+[git commit -m "my message"] used to commit changes with a commit msg. This means it is still only commited to the local copy
+[git push] pushes the local working copy to the remote repository.
+[git pull origin master] pulls the diffs from the remote repository into the local working copy
+
+Next: create the remote repository using command line and ssh...
